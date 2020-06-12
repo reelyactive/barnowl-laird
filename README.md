@@ -1,7 +1,7 @@
 barnowl-laird
 =============
 
-Interface [Laird Connectivity](https://reelyactive.github.io/reel-overview.html) hardware with [barnowl](https://github.com/reelyactive/barnowl) open source software.  We believe in an open Internet of Things.
+Interface [Laird Connectivity](https://www.lairdconnect.com/) hardware with [barnowl](https://github.com/reelyactive/barnowl) open source software.  We believe in an open Internet of Things.
 
 
 Installation
