@@ -40,8 +40,7 @@ Manually install the [serialport](https://www.npmjs.com/package/serialport) pack
     npm install serialport
 
 ```javascript
-barnowl.addListener(BarnowlLaird.SerialListener, { path: "/dev/ttyS2",
-                                                   baudrate: 115200 });
+barnowl.addListener(BarnowlLaird.SerialListener, { path: "/dev/ttyS2" });
 ```
 
 ### Test
